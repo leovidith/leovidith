@@ -1,4 +1,4 @@
-Focused Deep Learning Systems Design.
-Two years of building, testing, and optimizing neural nets.
-Quietly obsessed with getting things to work right.
-If it trains, it ships. no excuses.
+- Focused on Deep Learning Systems Design.
+- Two years of building, testing, and optimizing neural nets.
+- Quietly obsessed with getting things to work right.
+- If it trains, it ships. no excuses.
